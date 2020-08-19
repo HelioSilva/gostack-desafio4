@@ -56,12 +56,6 @@ export default function App() {
                 )}
               />
 
-              {/* <View style={styles.techsContainer}>
-                {item.techs.map((tec) => (
-                  <Text style={styles.tech}>{tec}</Text>
-                ))}
-              </View> */}
-
               <View style={styles.likesContainer}>
                 <Text
                   style={styles.likeText}
